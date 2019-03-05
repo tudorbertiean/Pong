@@ -1,8 +1,0 @@
-struct ppball
-{
-  int y_pos, x_pos,
-    y_ttm, x_ttm,
-    y_ttg, x_ttg,
-    y_dir, x_dir;
-  char symbol ;
-} the_ball;
