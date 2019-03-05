@@ -1,8 +1,0 @@
-//Paddle.h
-
-
-struct paddle
-{
-  int x_pos, y_pos, pre_y_pos;
-  char symbol;
-} the_paddle;
